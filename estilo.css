@@ -1,0 +1,37 @@
+.container, .tituloH{
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    text-align: center;
+    background-color: #3f5d71;
+    height: 50px;
+}
+.labelPalavra{
+    font-size: 1rem;
+}
+.tituloH{
+    font-size: 2rem;
+    padding-top: 1.5vh;
+}
+.tituloC{
+    font-size: 2rem;
+    padding-top: 1.5vh;
+    margin-bottom: 5vh;
+}
+.caixa{
+    text-align: center;
+    background-color: #e7e6da;
+    padding: .3rem;
+    height: 200px;
+    margin: 2px;
+    font-size: 2rem;
+}
+#mostra{
+    height: 10vh;
+    width: 100%;
+    margin-top: 1rem;
+}
+#mostra_resultado{
+ 
+    font-size: 1em;
+}
