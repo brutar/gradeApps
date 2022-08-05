@@ -11,12 +11,12 @@ header{
 }
 .tituloH{
     font-size: 2rem;
-    padding-top: 1.5vh;
+    padding-top: 1%;
 }
 .tituloC{
     font-size: 2rem;
     padding-top: 1.5vh;
-    margin-bottom: 5vh;
+    margin-bottom: 1%;
 }
 .caixa{
     text-align: center;
@@ -29,7 +29,7 @@ header{
 #mostra{
     height: 10vh;
     width: 100%;
-    margin-top: 1rem;
+    margin-top: .5rem;
 }
 #mostra_resultado{
  
