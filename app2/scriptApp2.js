@@ -10,6 +10,6 @@ btnFrase.addEventListener('click', (e) => {
     }
   }
   mostraQuantidade.removeAttribute("hidden");
-  mostraQuantidade.textContent = `Quantidade de cacteres, exceto espaço: ${contador}`;
+  mostraQuantidade.textContent = `Quantidade de caracteres, exceto espaço: ${contador}`;
 }
 );
