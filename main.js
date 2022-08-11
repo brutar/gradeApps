@@ -8,6 +8,6 @@ btn.addEventListener('click', (e) => {
     inverter=  inverter + palavra.value[palavra.value.length - (i+1)];
   }
   mostra.removeAttribute("hidden");
-  mostra.innerHTML = inverter;
+  mostra.textContent = inverter;
 }
 );
